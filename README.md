@@ -14,7 +14,10 @@ This project predicts:
 The model is trained on UTKFace and fine-tuned to output dual-age predictions. A Gradio interface allows easy deployment and testing.
 
 ---
-
+## Link for Downloads dual_model.pth
+```
+https://drive.google.com/file/d/1gW6qtOOFx6rgcmgQ5xNnvX683R6hovDa/view?usp=sharing
+```
 ## Requirements
 
 ```

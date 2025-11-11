@@ -33,7 +33,7 @@ cd FaceBioAge
 2.Place dual_model.pth in the repo folder
 
 
-3.Run the last cell in the Colab notebook to launch the Gradio interface and upload face images for prediction.
+3.Run the last 2 cell in the Colab notebook to redefine model  and load weights then launch the Gradio interface and upload face images for prediction.
 
 ## Notes
 
